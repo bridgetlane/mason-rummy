@@ -35,6 +35,6 @@ The .deck file must have 65 card descriptions, separated by any whitespace
 Card descriptions are suit + value: CDHSP/123456789TJQKA
 Example included
 
-# [License](https://github.com/bridgetlane/mason-rummy/blob/master/LICENSE)
+# License
 
-Mason Rummy is licensed under the MIT license.
+Mason Rummy is licensed under the [MIT license.](https://github.com/bridgetlane/mason-rummy/blob/master/LICENSE)
