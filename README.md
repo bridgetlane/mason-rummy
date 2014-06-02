@@ -1,6 +1,6 @@
 # Mason Rummy
 
-A Mason version of Rummy written in Python 3.2.0
+A command-line Mason version of Rummy written in Python 3.2.0
 
 Created with love for George Mason University
 
