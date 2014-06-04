@@ -30,7 +30,7 @@ scores.csv has four columns: name, games won, games lost, and best score
 Example included
 
 ## .deck
-The deck is read from a .deck file
+When playing with a pre-stacked deck, the deck is read from a .deck file. Playing without uses an automated deck.
 The .deck file must have 65 card descriptions, separated by any whitespace
 Card descriptions are suit + value: CDHSP/123456789TJQKA
 Example included
@@ -38,3 +38,14 @@ Example included
 # License
 
 Mason Rummy is licensed under the [MIT license.](https://github.com/bridgetlane/mason-rummy/blob/master/LICENSE)
+
+# Problems
+
+This is a very old program, one of the first programs I've written. It has a lot of problems that I'd like to fix if I ever found time, including:
+
+    + Poor to no error handling
+    + Four separate functions for each kind of game -- 2 players, 3 players, 2 with stacked deck, 3 with stacked deck. I think this could be done in one function.
+    + Deck splitting should be its own function
+    + Bad formatting in certain places
+
+But if you play it nicely, it plays well. Enjoy! Please let me know if you find any unlisted errors.
